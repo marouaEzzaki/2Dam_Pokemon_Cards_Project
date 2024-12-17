@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Play:wght@400;700&family=Trykker&display=swap');
+
+:root {
+
+    --font-titulo : "Lato", sans-serif;
+    --font-secundario : "Play", sans-serif;
+
+    --font-color-primary : white;
+    --font-color-secondary: rgb(119, 117, 117);
+
+
+    --color-primary-button : #27abf3;
+    --color-secondary-button : rgb(193, 186, 186);
+    --border-primary-color : rgb(253, 222, 19);
+    --border-secondary-color : rgb(253, 183, 19);
+
+
+    --background-azul : url("../assets/imagenes/textura_azul.png");
+    --background-amarilla : url("../assets/imagenes/textura_amarilla.png");
+    --background-blanca : url("../assets/imagenes/textura_blanca.png");
+    --background-morada : url("../assets/imagenes/textura_morada.png");
+    --background-naranja : url("../assets/imagenes/textura_naranja.png");
+    --background-verde : url("../assets/imagenes/textura_verde.png");
+
+
+    --icono-agua : url("../assets/iconos/icono_agua.png");
+    --icono-electrico : url("../assets/iconos/icono_electrico.png");
+    --icono-energia : url("../assets/iconos/icono_energia.png");
+    --icono-fuego : url("../assets/iconos/icono_fuego.png");
+    --icono-fuerza : url("../assets/iconos/icono_fuerza.png");
+    --icono-hierba : url("../assets/iconos/icono_hierba.png");
+    --icono-psiquico : url("../assets/iconos/icono_psiquico.png");
+
+
+    --icono-lupa : url("../assets/iconos/icono-lupa.png");
+    --icono-cuadricula : url("../assets/iconos/icono-cuadricula.png");
+    --icono-lista : url("../assets/iconos/icono-lista.png");
+}
